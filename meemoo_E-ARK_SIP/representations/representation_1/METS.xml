@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sip="https://DILCIS.eu/XML/METS/SIPExtensionMETS" xmlns="http://www.loc.gov/METS/" xmlns:csip="https://DILCIS.eu/XML/METS/CSIPExtensionMETS" xmlns:xlink="http://www.w3.org/1999/xlink" OBJID="representation_1" LABEL="" TYPE="Textual works – Print" csip:CONTENTINFORMATIONTYPE="OTHER" csip:OTHERCONTENTINFORMATIONTYPE="https://data.hetarchief.be/id/sip/2.0/bibliographic" PROFILE="https://earksip.dilcis.eu/profile/E-ARK-SIP-v2-1-0.xml" xsi:schemaLocation="http://www.loc.gov/METS/ ../../schemas/mets1_12.xsd http://www.w3.org/1999/xlink ../../schemas/xlink.xsd https://dilcis.eu/XML/METS/CSIPExtensionMETS ../../schemas/DILCISExtensionMETS.xsd https://dilcis.eu/XML/METS/SIPExtensionMETS ../../schemas/DILCISExtensionSIPMETS.xsd">
+    <metsHdr CREATEDATE="2024-09-10T19:23:17.178+02:00" LASTMODDATE="2024-09-10T19:23:17.178+02:00" RECORDSTATUS="NEW" csip:OAISPACKAGETYPE="SIP"/>
+    <amdSec ID="uuid-599567DD-F0B0-4AD8-B726-B7FE05E299F5">
+        <digiprovMD ID="uuid-10E46F87-0E2D-464B-9D2F-4AAAA1270A2D" STATUS="CURRENT">
+            <mdRef ID="ID-uuid-548D3E91-C9E5-4923-B686-146DC2707ED1" LOCTYPE="URL" MIMETYPE="application/xml" SIZE="10680" CREATED="2024-09-10T19:23:17.190+02:00" CHECKSUM="4EA2B3320DADC7B94A2F3D3AF4A9598E" CHECKSUMTYPE="MD5" MDTYPE="OTHER" xlink:type="simple" xlink:href="metadata/preservation/premis.xml"/>
+        </digiprovMD>
+    </amdSec>
+    <fileSec ID="uuid-065CE37B-E3D5-41F0-8EC8-CC475050F8A9">
+        <fileGrp ID="uuid-14C57430-DEC1-4EC2-AF34-A0503638F4BE" USE="Data">
+            <file ID="ID-B7788015-4C5C-4BDB-9AAD-D0EFABFE3955" MIMETYPE="image/jpeg" SIZE="665256" CREATED="2024-09-10T19:23:17.187+02:00" CHECKSUM="127C59BAC820FEA714814D335B5D0A71" CHECKSUMTYPE="MD5">
+                <FLocat LOCTYPE="URL" xlink:type="simple" xlink:href="data/x05x63cx2j_19141125_0001.jpg"/>
+            </file>
+            <file ID="ID-83B9B396-2DE7-482B-AE47-260CC9F47E39" MIMETYPE="image/jpeg" SIZE="743858" CREATED="2024-09-10T19:23:17.189+02:00" CHECKSUM="60C29E79518B0E0AF74C04C54C188728" CHECKSUMTYPE="MD5">
+                <FLocat LOCTYPE="URL" xlink:type="simple" xlink:href="data/x05x63cx2j_19141125_0002.jpg"/>
+            </file>
+        </fileGrp>
+    </fileSec>
+    <structMap ID="uuid-BD2FB892-82EA-4EE9-A099-09DC4F4E2572" TYPE="PHYSICAL" LABEL="CSIP">
+        <div ID="uuid-0B6F23C1-E81B-4118-BBFC-20990BF17872" TYPE="ORIGINAL" LABEL="representation_1">
+            <div ID="uuid-B2822ABB-6A89-4D99-83D1-6C4EB3DBCEB0" ADMID="uuid-10E46F87-0E2D-464B-9D2F-4AAAA1270A2D" LABEL="Metadata"/>
+            <div ID="uuid-DC687FAF-A904-4BE0-80F7-3472C4B4C8D8" LABEL="Data">
+                <fptr FILEID="uuid-14C57430-DEC1-4EC2-AF34-A0503638F4BE"/>
+            </div>
+        </div>
+    </structMap>
+</mets>
