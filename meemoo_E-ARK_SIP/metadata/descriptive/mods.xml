@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" version="3.7" xmlns:xs="http://www.w3.org/2001/XMLSchema/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" xmlns:null="http://www.w3.org/1999/xlink">
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" version="3.7" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd" xmlns:null="http://www.w3.org/1999/xlink">
     <mods:titleInfo>
         <mods:title>De Gentenaar. De landwacht. De kleine patriot</mods:title>
     </mods:titleInfo>
     <mods:titleInfo type="alternative" otherType="incipit">
-        <mods:title>De Gentenaar. De landwacht. De kleine patriot</mods:title>
+        <mods:title>De encycliek van zijne heiligheid Paus Benedictus XV.</mods:title>
     </mods:titleInfo>
     <mods:identifier>uuid-9f07a3eb-1edb-4119-a98e-83ec7fd8d61c</mods:identifier>
     <mods:typeOfResource>newspaper edition</mods:typeOfResource>
