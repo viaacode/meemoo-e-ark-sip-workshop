@@ -20,8 +20,16 @@
         <div ID="uuid-3EFB3D03-B711-4348-B359-77F259441713" TYPE="ORIGINAL" LABEL="representation_2">
             <div ID="uuid-A53DB2E9-7C3C-4AC0-9D52-B3096BCFC17F" ADMID="uuid-86BD271B-1D84-4F4B-BDC7-61A6CAB3946F" LABEL="Metadata"/>
             <div ID="uuid-506662F8-80FD-4143-9B15-2878D776D22B" LABEL="Data">
-                <fptr FILEID="uuid-C1C8C70F-D19D-415E-A43A-7B998DC89CC1"/>
+                <!-- File pointers to file IDs in mets/fileSec/fileGrp[@USE="data"]/file/@ID -->
+                <div ID="uuid-CFFA8B4B-0C1F-4D32-A717-37B66EC9161F" TYPE="page" ORDER="1">
+                    <fptr FILEID="ID-BE4A2059-22DD-4B3C-AECF-430A3F121B3C"/>
+                </div>
+                <div ID="uuid-01DDA468-067E-4766-88DE-B13C7FB48864" TYPE="page" ORDER="2">
+                    <fptr FILEID="ID-CBF18014-2E4B-44B4-8FC6-DB4B010861CD"/>
+                </div>
             </div>
         </div>
     </structMap>
 </mets>
+
+                
