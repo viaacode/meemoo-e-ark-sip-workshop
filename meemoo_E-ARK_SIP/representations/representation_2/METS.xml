@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sip="https://DILCIS.eu/XML/METS/SIPExtensionMETS" xmlns="http://www.loc.gov/METS/" xmlns:csip="https://DILCIS.eu/XML/METS/CSIPExtensionMETS" xmlns:xlink="http://www.w3.org/1999/xlink" OBJID="representation_2" LABEL="" TYPE="Textual works – Print" csip:CONTENTINFORMATIONTYPE="OTHER" csip:OTHERCONTENTINFORMATIONTYPE="https://data.hetarchief.be/id/sip/2.0/bibliographic" PROFILE="https://earksip.dilcis.eu/profile/E-ARK-SIP-v2-1-0.xml" xsi:schemaLocation="http://www.loc.gov/METS/ ../../schemas/mets1_12.xsd http://www.w3.org/1999/xlink ../../schemas/xlink.xsd https://dilcis.eu/XML/METS/CSIPExtensionMETS ../../schemas/DILCISExtensionMETS.xsd https://dilcis.eu/XML/METS/SIPExtensionMETS ../../schemas/DILCISExtensionSIPMETS.xsd">
-    <metsHdr CREATEDATE="2024-09-10T19:23:17.193+02:00" LASTMODDATE="2024-09-10T19:23:17.193+02:00" RECORDSTATUS="NEW" csip:OAISPACKAGETYPE="SIP"/>
-    <amdSec ID="uuid-D599D9FB-17B0-4A78-870C-955684E45810">
-        <digiprovMD ID="uuid-86BD271B-1D84-4F4B-BDC7-61A6CAB3946F" STATUS="CURRENT">
-            <mdRef ID="ID-uuid-03F22408-435A-41AF-8161-8C841479C9C1" LOCTYPE="URL" MIMETYPE="application/xml" SIZE="10613" CREATED="2024-09-10T19:23:17.195+02:00" CHECKSUM="A21173C83526CDDE82D02B991A54459C" CHECKSUMTYPE="MD5" MDTYPE="OTHER" xlink:type="simple" xlink:href="metadata/preservation/premis.xml"/>
+    <metsHdr CREATEDATE="2024-09-13T09:54:44.319+02:00" LASTMODDATE="2024-09-13T09:54:44.319+02:00" RECORDSTATUS="NEW" csip:OAISPACKAGETYPE="SIP"/>
+    <amdSec ID="uuid-66711E73-E9EF-4197-8143-B63FE3E89F70">
+        <digiprovMD ID="uuid-4511B558-9C03-409E-945A-E8CFA1AF423B" STATUS="CURRENT">
+            <mdRef ID="ID-uuid-A4C6AD02-9C99-42FF-8714-439AFB1D8ED7" LOCTYPE="URL" MIMETYPE="application/xml" SIZE="10613" CREATED="2024-09-13T09:54:44.320+02:00" CHECKSUM="A21173C83526CDDE82D02B991A54459C" CHECKSUMTYPE="MD5" MDTYPE="OTHER" xlink:type="simple" xlink:href="metadata/preservation/premis.xml"/>
         </digiprovMD>
     </amdSec>
-    <fileSec ID="uuid-CEF4987D-A9FC-4E72-9CF3-DD3CD13B7266">
-        <fileGrp ID="uuid-C1C8C70F-D19D-415E-A43A-7B998DC89CC1" USE="Data">
-            <file ID="ID-BE4A2059-22DD-4B3C-AECF-430A3F121B3C" MIMETYPE="application/xml" SIZE="687547" CREATED="2024-09-10T19:23:17.193+02:00" CHECKSUM="746D287D30EC7ACB5255E8B949EAC4A5" CHECKSUMTYPE="MD5">
+    <fileSec ID="uuid-89A7C64A-12B8-4E54-A715-66E2ECA4E75B">
+        <fileGrp ID="uuid-A6C4AD73-754E-4F93-927A-7603292E4DB8" USE="Data">
+            <file ID="ID-7A736BC5-75E3-4D85-9EB8-A80D13314F99" MIMETYPE="application/xml" SIZE="687547" CREATED="2024-09-13T09:54:44.319+02:00" CHECKSUM="746D287D30EC7ACB5255E8B949EAC4A5" CHECKSUMTYPE="MD5">
                 <FLocat LOCTYPE="URL" xlink:type="simple" xlink:href="data/x05x63cx2j_19141125_0001_alto.xml"/>
             </file>
-            <file ID="ID-CBF18014-2E4B-44B4-8FC6-DB4B010861CD" MIMETYPE="application/xml" SIZE="657563" CREATED="2024-09-10T19:23:17.194+02:00" CHECKSUM="290D4120CBDB32CD057A780640F725CC" CHECKSUMTYPE="MD5">
+            <file ID="ID-A0BCA757-6A3F-45AA-AA0B-28E65E26F1DA" MIMETYPE="application/xml" SIZE="657563" CREATED="2024-09-13T09:54:44.319+02:00" CHECKSUM="290D4120CBDB32CD057A780640F725CC" CHECKSUMTYPE="MD5">
                 <FLocat LOCTYPE="URL" xlink:type="simple" xlink:href="data/x05x63cx2j_19141125_0002_alto.xml"/>
             </file>
         </fileGrp>
     </fileSec>
-    <structMap ID="uuid-E4C14908-3AC5-4A51-BC8C-1DECAD18485A" TYPE="PHYSICAL" LABEL="CSIP">
-        <div ID="uuid-3EFB3D03-B711-4348-B359-77F259441713" TYPE="ORIGINAL" LABEL="representation_2">
-            <div ID="uuid-A53DB2E9-7C3C-4AC0-9D52-B3096BCFC17F" ADMID="uuid-86BD271B-1D84-4F4B-BDC7-61A6CAB3946F" LABEL="Metadata"/>
-            <div ID="uuid-506662F8-80FD-4143-9B15-2878D776D22B" LABEL="Data">
-                <fptr FILEID="uuid-C1C8C70F-D19D-415E-A43A-7B998DC89CC1"/>
+    <structMap ID="uuid-7A19DB28-DFA8-4B78-8FA5-C1C50F74C903" TYPE="PHYSICAL" LABEL="CSIP">
+        <div ID="uuid-EF33579D-D616-415E-930D-C0284D9DF620" TYPE="ORIGINAL" LABEL="representation_2">
+            <div ID="uuid-46B85C5C-67E0-4478-9E8A-DCE94B38CB9A" ADMID="uuid-4511B558-9C03-409E-945A-E8CFA1AF423B" LABEL="Metadata"/>
+            <div ID="uuid-2C873228-3CBA-4878-ADA3-D8DCA284DFEA" LABEL="Data">
+                <fptr FILEID="uuid-A6C4AD73-754E-4F93-927A-7603292E4DB8"/>
             </div>
         </div>
     </structMap>
