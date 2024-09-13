@@ -9,10 +9,6 @@
             <name>UGent</name>
             <note csip:NOTETYPE="IDENTIFICATIONCODE">OR-0z70w1b</note>
         </agent>
-        <agent ROLE="CREATOR" TYPE="ORGANIZATION">
-            <name>meemoo</name>
-            <note csip:NOTETYPE="IDENTIFICATIONCODE">OR-w66976m</note>
-        </agent>
     </metsHdr>
     <dmdSec ID="uuid-6D38BDD4-C0A1-4DFA-BAD0-A8C0BE3CF015" CREATED="2024-09-13T09:54:44.308+02:00" STATUS="CURRENT">
         <mdRef ID="ID-uuid-C606BB8D-CDD8-4DFC-ABFA-BACEDA047706" LOCTYPE="URL" MIMETYPE="application/xml" SIZE="4194" CREATED="2024-09-13T09:54:44.308+02:00" CHECKSUM="B5C9C8BEBF36F6E09DFC3F00E1F034E6" CHECKSUMTYPE="MD5" MDTYPE="MODS" xlink:type="simple" xlink:href="metadata/descriptive/mods.xml"/>
