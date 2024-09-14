@@ -38,12 +38,12 @@
                 <FLocat LOCTYPE="URL" xlink:type="simple" xlink:href="documentation/doc.txt"/>
             </file>
         </fileGrp>
-        <fileGrp ID="uuid-ABA4D8AE-4FAB-4D0B-9544-DE44D8718D78" USE="Representations/representation_1">
+        <fileGrp ID="uuid-ABA4D8AE-4FAB-4D0B-9544-DE44D8718D78" USE="Representations/representation_1" csip:CONTENTINFORMATIONTYPE="OTHER" csip:OTHERCONTENTINFORMATIONTYPE="https://data.hetarchief.be/id/sip/2.0/bibliographic">
             <file ID="ID-ED5812A9-80AE-4C8B-96A8-A5375AE0754E" MIMETYPE="application/xml" SIZE="2862" CREATED="2024-09-13T09:54:44.527+02:00" CHECKSUM="800CD686EE244F81A9BFAB383A127164" CHECKSUMTYPE="MD5">
                 <FLocat LOCTYPE="URL" xlink:type="simple" xlink:href="representations/representation_1/METS.xml"/>
             </file>
         </fileGrp>
-        <fileGrp ID="uuid-BEF079CD-CD4B-4D47-9912-2D233D98EF92" USE="Representations/representation_2">
+        <fileGrp ID="uuid-BEF079CD-CD4B-4D47-9912-2D233D98EF92" USE="Representations/representation_2" csip:CONTENTINFORMATIONTYPE="OTHER" csip:OTHERCONTENTINFORMATIONTYPE="https://data.hetarchief.be/id/sip/2.0/bibliographic">
             <file ID="ID-D2D42A72-8E63-4D2D-9F84-6586B00F4A41" MIMETYPE="application/xml" SIZE="2882" CREATED="2024-09-13T09:54:44.562+02:00" CHECKSUM="3076FDE1F415D0EA5C4451AC8A301BFE" CHECKSUMTYPE="MD5">
                 <FLocat LOCTYPE="URL" xlink:type="simple" xlink:href="representations/representation_2/METS.xml"/>
             </file>
