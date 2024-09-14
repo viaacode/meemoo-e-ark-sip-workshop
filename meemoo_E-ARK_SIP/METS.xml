@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sip="https://DILCIS.eu/XML/METS/SIPExtensionMETS" xmlns="http://www.loc.gov/METS/" xmlns:csip="https://DILCIS.eu/XML/METS/CSIPExtensionMETS" xmlns:xlink="http://www.w3.org/1999/xlink" OBJID="/home/sapcid/Documents/Repos/e-ark-workshop-sip/SIPs/meemoo_E-ARK_SIP" LABEL="" TYPE="Textual works – Print" csip:CONTENTINFORMATIONTYPE="OTHER" csip:OTHERCONTENTINFORMATIONTYPE="https://data.hetarchief.be/id/sip/2.0/bibliographic" PROFILE="https://earksip.dilcis.eu/profile/E-ARK-SIP.xml" xsi:schemaLocation="http://www.loc.gov/METS/ schemas/mets1_12.xsd http://www.w3.org/1999/xlink schemas/xlink.xsd https://dilcis.eu/XML/METS/CSIPExtensionMETS schemas/DILCISExtensionMETS.xsd https://dilcis.eu/XML/METS/SIPExtensionMETS schemas/DILCISExtensionSIPMETS.xsd">
+<mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sip="https://DILCIS.eu/XML/METS/SIPExtensionMETS" xmlns="http://www.loc.gov/METS/" xmlns:csip="https://DILCIS.eu/XML/METS/CSIPExtensionMETS" xmlns:xlink="http://www.w3.org/1999/xlink" OBJID="meemoo_E-ARK_SIP" LABEL="" TYPE="Textual works – Print" csip:CONTENTINFORMATIONTYPE="OTHER" csip:OTHERCONTENTINFORMATIONTYPE="https://data.hetarchief.be/id/sip/2.0/bibliographic" PROFILE="https://earksip.dilcis.eu/profile/E-ARK-SIP.xml" xsi:schemaLocation="http://www.loc.gov/METS/ schemas/mets1_12.xsd http://www.w3.org/1999/xlink schemas/xlink.xsd https://dilcis.eu/XML/METS/CSIPExtensionMETS schemas/DILCISExtensionMETS.xsd https://dilcis.eu/XML/METS/SIPExtensionMETS schemas/DILCISExtensionSIPMETS.xsd">
     <metsHdr CREATEDATE="2024-09-13T09:54:44.261+02:00" LASTMODDATE="2024-09-13T09:54:44.261+02:00" RECORDSTATUS="NEW" csip:OAISPACKAGETYPE="SIP">
         <agent ROLE="CREATOR" TYPE="OTHER" OTHERTYPE="SOFTWARE">
             <name>meemoo SIP creator</name>
@@ -50,7 +50,7 @@
         </fileGrp>
     </fileSec>
     <structMap ID="uuid-E960A51C-DC31-4F4D-9AA9-768E9435648E" TYPE="PHYSICAL" LABEL="CSIP">
-        <div ID="uuid-F8409086-51AE-4E4E-8D5F-17173A1E8202" LABEL="/home/sapcid/Documents/Repos/e-ark-workshop-sip/SIPs/meemoo_E-ARK_SIP_2">
+        <div ID="uuid-F8409086-51AE-4E4E-8D5F-17173A1E8202" LABEL="meemoo_E-ARK_SIP">
             <div ID="uuid-2575FD65-6CA3-4531-A604-2D672B639E69" DMDID="uuid-6D38BDD4-C0A1-4DFA-BAD0-A8C0BE3CF015" ADMID="uuid-1CBFB8F9-45CA-4C7E-872A-E11521F18818" LABEL="Metadata"/>
             <div ID="uuid-DC0394CE-9F70-40C5-BADE-F1638229CDD0" LABEL="Schemas">
                 <fptr FILEID="uuid-63AD5902-9BEE-442C-A429-6EE6E52BF6B7"/>
